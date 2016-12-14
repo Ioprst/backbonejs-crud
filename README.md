@@ -1,1 +1,3 @@
 # backbonejs-crud
+
+* with LocalStorage
